@@ -24,7 +24,8 @@
   ],
   "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
   "maintainers": [
-    "Abner Chou <hi@abnerchou.me> (http://abnerchou.me)"
+    "Abner Chou <hi@abnerchou.me> (http://abnerchou.me)",
+    "Ian Warner <ian.warner@drykiss.com>"
   ],
   "license": "MIT",
   "dependencies": {
