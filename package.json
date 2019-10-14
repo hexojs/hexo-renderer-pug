@@ -1,7 +1,7 @@
 {
-  "name": "hexo-renderer-jade",
-  "version": "0.4.1",
-  "description": "Pug/Jade renderer plugin for Hexo",
+  "name": "hexo-renderer-pug",
+  "version": "0.0.0",
+  "description": "Pug renderer plugin for Hexo",
   "main": "index.js",
   "scripts": {
     "eslint": "eslint .",
@@ -15,7 +15,7 @@
     "lib/",
     "index.js"
   ],
-  "repository": "hexojs/hexo-renderer-jade",
+  "repository": "hexojs/hexo-renderer-pug",
   "keywords": [
     "hexo",
     "pug",
@@ -23,8 +23,9 @@
   ],
   "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
   "maintainers": [
-    "Abner Chou <hi@abnerchou.me> (http://abnerchou.me)"
-    ],
+    "Abner Chou <hi@abnerchou.me> (http://abnerchou.me)",
+    "Ian Warner <ian.warner@drykiss.com>"
+  ],
   "license": "MIT",
   "dependencies": {
     "pug": "^2.0.1"
