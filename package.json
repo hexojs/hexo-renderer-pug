@@ -18,7 +18,6 @@
   "repository": "hexojs/hexo-renderer-jade",
   "keywords": [
     "hexo",
-    "jade",
     "pug",
     "renderer"
   ],
@@ -28,8 +27,7 @@
     ],
   "license": "MIT",
   "dependencies": {
-    "pug": "^2.0.1",
-    "jade": "^1.11.0"
+    "pug": "^2.0.1"
   },
   "devDependencies": {
     "chai": "^4.2.0",
