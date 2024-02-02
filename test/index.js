@@ -2,7 +2,7 @@
 
 require('chai').should();
 
-describe('hexo-renderer-jade', () => {
+describe('hexo-renderer-pug', () => {
   const pug = require('../lib/pug');
 
   // Pug test cases
