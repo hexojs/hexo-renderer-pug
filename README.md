@@ -1,18 +1,19 @@
 # hexo-renderer-pug
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/hexojs/hexo-renderer-pug/linter.yml?branch=master&label=test)](https://github.com/hexojs/hexo-renderer-pug/actions?query=workflow%3ALinter)
+[![CI](https://github.com/hexojs/hexo-renderer-pug/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/hexojs/hexo-renderer-pug/actions/workflows/ci.yml)
 [![NPM version](https://badge.fury.io/js/hexo-renderer-pug.svg)](https://www.npmjs.com/package/hexo-renderer-pug)
-[![Coverage Status](https://img.shields.io/coveralls/hexojs/hexo-renderer-pug.svg)](https://coveralls.io/r/hexojs/hexo-renderer-pug?branch=master) 
+[![Coverage Status](https://coveralls.io/repos/github/hexojs/hexo-renderer-pug/badge.svg)](https://coveralls.io/github/hexojs/hexo-renderer-pug)
 
 Add support for [Pug].
 
 ## Install
 
-``` bash
+```bash
 $ npm install hexo-renderer-pug --save
 ```
 
 ## Config
+
 PugJS [options](https://pugjs.org/api/reference.html#options) are supported. These are the options passed into [compile()](https://pugjs.org/api/reference.html#pugcompilesource-options).
 
 Create a `pug.config.js` in your project root:
